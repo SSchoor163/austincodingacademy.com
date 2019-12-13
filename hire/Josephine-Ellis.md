@@ -57,6 +57,6 @@ education:
 projects:
   - name: "" # project title
     desc: "" # short description of what project does
-    url: "" # link to your deployed project
+    url: "https://lubbocklocalrestaurantapi.azurewebsites.net/profile" # link to your deployed project
 
 ---
